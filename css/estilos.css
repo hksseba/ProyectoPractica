@@ -1,13 +1,14 @@
 
 .titulo{
-  padding-left: 35%;
+  padding-left: 25%;
   padding-right: 25%;
   padding-top: 0.5%;
   padding-bottom: 0.5%;
   background-color: #04AA6D;
 }
 .vertical-menu {
-    width: 15%; /* Set a width if you like */
+    width: 100%; /* Set a width if you like */
+    height: 100%;
   }
   
   .vertical-menu a {
