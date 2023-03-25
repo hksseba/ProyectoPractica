@@ -8,11 +8,11 @@
 }
 .vertical-menu {
     width: 100%; /* Set a width if you like */
-    height: 100%;
+    height: 50%;
   }
   
   .vertical-menu a {
-    background-color: #eee; /* Grey background color */
+    background-color: #ffffff; /* Grey background color */
     color: black; /* Black text color */
     display: block; /* Make the links appear below each other */
     padding: 12px; /* Add some padding */
@@ -20,7 +20,7 @@
   }
   
   .vertical-menu a:hover {
-    background-color: #ccc; /* Dark grey background on mouse-over */
+    background-color: #04AA6D; /* Dark grey background on mouse-over */
   }
   
   .vertical-menu a.active {
@@ -43,7 +43,18 @@ h3 {
 img{
   width: 400px;
   height: 300px;
+  display: block;
+  margin: auto;
+}
+.textos_perro{
+  text-align: center;
 }
 
-
-  
+.fondo_perros{
+  background-image: url(https://www.blogodisea.com/wp-content/uploads/2015/04/perros.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:#ffffff
+}
