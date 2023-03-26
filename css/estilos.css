@@ -45,6 +45,12 @@ img{
   height: 300px;
   display: block;
   margin: auto;
+  border-radius: 12px;
+  
+}
+.img:hover{
+  transform: scale(1.05);
+  transition: 1s;
 }
 .textos_perro{
   text-align: center;
@@ -58,3 +64,4 @@ img{
     background-attachment: fixed;
     color:#ffffff
 }
+

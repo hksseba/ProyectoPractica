@@ -74,3 +74,9 @@ body {
     background-size: cover;
     background-attachment: fixed;
   }
+
+  .img_us{width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;}
