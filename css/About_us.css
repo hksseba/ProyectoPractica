@@ -62,13 +62,12 @@ body {
   
   @media screen and (max-width: 650px) {
     .column {
-      width: 100%;
-      
+      width: 100%;   
     }
   }
   
   .img_aboutus{
-    background-image: url(https://wallpaperaccess.com/full/3124512.jpg);
+    background-image: url(../img/fondo_nosotros.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

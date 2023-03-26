@@ -40,18 +40,37 @@ h3 {
   text-align: center;
 }
 
+p {
+  text-align: center;
+}
+
 img{
   width: 400px;
   height: 300px;
   display: block;
   margin: auto;
 }
-.textos_perro{
-  text-align: center;
-}
 
 .fondo_perros{
-  background-image: url(https://www.blogodisea.com/wp-content/uploads/2015/04/perros.jpg);
+  background-image: url(../img/fondo_perros.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:#ffffff
+}
+
+.fondo_gatos{
+  background-image: url(../img/fondo_gatos.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:#ffffff
+}
+
+.fondo_inicio{
+  background-image: url(../img/fondo_inicio.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
