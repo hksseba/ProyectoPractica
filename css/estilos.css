@@ -44,7 +44,13 @@ h3 {
 p {
   text-align: center;
   font-size: 150%;
-  color: #c4c0c0;
+  color: #436950;
+}
+
+h5 {
+  text-align: center;
+  font-size: 150%;
+  color: #000000;
 }
 
 img{
